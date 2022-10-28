@@ -1,0 +1,17 @@
+Brainstorming the steps needed to implement a todo list:
+
+Ability to create projects that will appear on side of page in PC view.
+    Projects will appear on top of page in mobile view.
+Ability to delete projects.
+Ability to edit project name.
+Ability to add project due date.
+When project is selected, the list of tasks that are currently assigned to the project appear on the main section of the page.
+Ability to add tasks to the project.
+Ability to delete tasks from the project.
+Ability to add due dates to the tasks on the project.
+    Check if due date is after project due date.
+Ability to edit task name and date.
+Ability to check/uncheck the completion status of the tasks.
+Make the todo page mobile friendly first, followed by PC friendly second.
+Add in local storage ability so that the page stays the same on the same device.
+Make it prettified.
