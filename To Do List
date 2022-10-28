@@ -1,1 +1,197 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T09:11:29.951Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="DSwXLdsbzUX5Dlia2qOA" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-28T09:43:19.832Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5VmmgT-QkmBvgIuHM1A8" version="20.5.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="-tCI-1rahH8vBrofuJsk-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Page loads with default information: project information, task information, dates, etc." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="10" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-0" target="-tCI-1rahH8vBrofuJsk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-0" target="-tCI-1rahH8vBrofuJsk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-0" value="Ability to create projects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-2" target="-tCI-1rahH8vBrofuJsk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-2" value="Ask for project name and date" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-4" target="-tCI-1rahH8vBrofuJsk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-12" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-4" target="-tCI-1rahH8vBrofuJsk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-4" value="Is date after&lt;br&gt;current date&lt;br&gt;or is current&amp;nbsp;&lt;br&gt;date?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="135" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-6" target="-tCI-1rahH8vBrofuJsk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-6" value="Add project to list of projects." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-8" target="-tCI-1rahH8vBrofuJsk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-8" value="Alert user of incorrect date" style="rectangle;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-13" value="Update display" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-15" target="-tCI-1rahH8vBrofuJsk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-15" target="-tCI-1rahH8vBrofuJsk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-15" value="Ability to delete projects" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-17" target="-tCI-1rahH8vBrofuJsk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-17" value="Deletes all tasks within project" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-19" target="-tCI-1rahH8vBrofuJsk-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-19" value="Removes project from list of projects" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-21" value="Updates display" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-23" target="-tCI-1rahH8vBrofuJsk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-23" target="-tCI-1rahH8vBrofuJsk-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-23" value="Ability edit project information" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-26" target="-tCI-1rahH8vBrofuJsk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-26" value="Ask for project name and date" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-27" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-28" target="-tCI-1rahH8vBrofuJsk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-33" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-28" target="-tCI-1rahH8vBrofuJsk-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-28" value="Is date after&lt;br&gt;current date&lt;br&gt;or is current&amp;nbsp;&lt;br&gt;date?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="465" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-30" target="-tCI-1rahH8vBrofuJsk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-30" value="Alert user of incorrect date" style="rectangle;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-32" value="Update display" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-34" target="-tCI-1rahH8vBrofuJsk-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-34" target="-tCI-1rahH8vBrofuJsk-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-34" value="Ability to switch between projects" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-42" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-39" target="-tCI-1rahH8vBrofuJsk-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-45" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-39" value="Are there&lt;br&gt;tasks in&lt;br&gt;project?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="670" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-41" value="Update display with existing tasks" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-43" value="Display &quot;No current tasks&quot;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-46" target="-tCI-1rahH8vBrofuJsk-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-46" target="-tCI-1rahH8vBrofuJsk-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-46" value="Ability to add tasks to project" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-49" target="-tCI-1rahH8vBrofuJsk-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-49" value="Ask for task name and date" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-50" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-52" target="-tCI-1rahH8vBrofuJsk-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-51" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-52" target="-tCI-1rahH8vBrofuJsk-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-52" value="Is date after&lt;br&gt;current date&lt;br&gt;or is current&amp;nbsp;&lt;br&gt;date?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="845" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-54" target="-tCI-1rahH8vBrofuJsk-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-54" value="Add task to the current project" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-56" target="-tCI-1rahH8vBrofuJsk-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-56" value="Alert user of incorrect date" style="rectangle;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-57" value="Update display" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-60" target="-tCI-1rahH8vBrofuJsk-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-60" value="Ability to delete tasks in projects" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-tCI-1rahH8vBrofuJsk-64" target="-tCI-1rahH8vBrofuJsk-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-64" value="Removes task from current project" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCI-1rahH8vBrofuJsk-65" value="Updates display" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
